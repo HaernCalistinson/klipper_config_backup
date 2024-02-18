@@ -1,0 +1,187 @@
+2024-02-17 00:00:00:INFO:Performing scheduled database backup.
+2024-02-17 00:00:00:INFO:Deleting oldest backup /home/app/.local/share/spoolman/backups/spoolman.db.5
+2024-02-17 00:00:00:INFO:Backing up SQLite database to /home/app/.local/share/spoolman/backups/spoolman.db
+2024-02-17 00:00:00:INFO:Copied 1 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 2 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 3 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 4 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 5 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 6 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 7 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 8 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 9 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 10 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 11 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 12 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 13 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 14 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 15 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 16 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 17 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 18 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 19 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 20 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 21 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 22 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 23 of 24 pages.
+2024-02-17 00:00:00:INFO:Copied 24 of 24 pages.
+2024-02-17 00:00:00:INFO:Backup complete.
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,1
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,2
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,3
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,4
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,5
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,6
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,7
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,8
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,9
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,10
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,11
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,12
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,13
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,14
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,15
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,17
+2024-02-17 21:53:39:INFO:Client 192.168.0.176 has stopped listening on pool spool,18
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,1
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,2
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,3
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,4
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,5
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,6
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,7
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,8
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,9
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,10
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,11
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,12
+2024-02-17 21:53:43:INFO:Client 192.168.0.176 is now listening on pool filament,13
+2024-02-17 21:53:44:INFO:Client 192.168.0.176 has stopped listening on pool filament
+2024-02-17 21:53:44:INFO:Client 192.168.0.176 is now listening on pool filament,14
+2024-02-17 21:53:44:INFO:Client 192.168.0.176 is now listening on pool filament,15
+2024-02-17 21:53:44:INFO:Client 192.168.0.176 is now listening on pool filament,16
+2024-02-17 21:53:45:INFO:Client 192.168.0.176 is now listening on pool filament,17
+2024-02-17 21:53:45:INFO:Client 192.168.0.176 is now listening on pool filament,18
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 is now listening on pool filament,19
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,1
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,2
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,3
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,4
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,5
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,6
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,7
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,8
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,9
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,10
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,11
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,12
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,13
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,14
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,15
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,16
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,17
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 has stopped listening on pool filament,18
+2024-02-17 21:53:47:INFO:Client 192.168.0.176 is now listening on pool filament,19
+2024-02-17 21:53:48:INFO:Client 192.168.0.176 has stopped listening on pool filament,19
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 has stopped listening on pool filament,19
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,1
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,2
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,3
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,4
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,5
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,7
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,6
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,9
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,8
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,11
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,10
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,12
+2024-02-17 21:54:01:INFO:Client 192.168.0.176 is now listening on pool filament,14
+2024-02-17 21:54:02:INFO:Client 192.168.0.176 is now listening on pool filament,13
+2024-02-17 21:54:02:INFO:Client 192.168.0.176 is now listening on pool filament,19
+2024-02-17 21:54:03:INFO:Client 192.168.0.176 is now listening on pool filament,15
+2024-02-17 21:54:04:INFO:Client 192.168.0.176 is now listening on pool filament,17
+2024-02-17 21:54:05:INFO:Client 192.168.0.176 is now listening on pool filament,18
+2024-02-17 21:54:06:INFO:Client 192.168.0.176 is now listening on pool filament,16
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,1
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,2
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,3
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,4
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,5
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,6
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,7
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,8
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,9
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,10
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,11
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,12
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,13
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,14
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,15
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,16
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,17
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,18
+2024-02-17 21:54:14:INFO:Client 192.168.0.176 has stopped listening on pool filament,19
+2024-02-17 21:54:34:INFO:Client 192.168.0.176 is now listening on pool filament
+2024-02-17 21:54:34:INFO:Client 192.168.0.176 is now listening on pool filament,1
+2024-02-17 21:54:34:INFO:Client 192.168.0.176 is now listening on pool filament,2
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 is now listening on pool filament,3
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 is now listening on pool filament,4
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 is now listening on pool filament,5
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 is now listening on pool filament,6
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 is now listening on pool filament,8
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 is now listening on pool filament,7
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 is now listening on pool filament,9
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 is now listening on pool filament,10
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 has stopped listening on pool filament,1
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 has stopped listening on pool filament,2
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 has stopped listening on pool filament,3
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 has stopped listening on pool filament,4
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 has stopped listening on pool filament,5
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 has stopped listening on pool filament,6
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 has stopped listening on pool filament,8
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 has stopped listening on pool filament,7
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 has stopped listening on pool filament,9
+2024-02-17 21:54:35:INFO:Client 192.168.0.176 has stopped listening on pool filament,10
+2024-02-17 21:54:36:INFO:Client 192.168.0.176 is now listening on pool filament,1
+2024-02-17 21:54:36:INFO:Client 192.168.0.176 is now listening on pool filament,18
+2024-02-17 21:54:36:INFO:Client 192.168.0.176 is now listening on pool filament,3
+2024-02-17 21:54:36:INFO:Client 192.168.0.176 is now listening on pool filament,13
+2024-02-17 21:54:36:INFO:Client 192.168.0.176 is now listening on pool filament,16
+2024-02-17 21:54:36:INFO:Client 192.168.0.176 is now listening on pool filament,20
+2024-02-17 21:54:36:INFO:Client 192.168.0.176 is now listening on pool filament,11
+2024-02-17 21:54:36:INFO:Client 192.168.0.176 is now listening on pool filament,2
+2024-02-17 21:54:37:INFO:Client 192.168.0.176 has stopped listening on pool filament
+2024-02-17 21:54:37:INFO:Client 192.168.0.176 has stopped listening on pool filament,1
+2024-02-17 21:54:37:INFO:Client 192.168.0.176 has stopped listening on pool filament,3
+2024-02-17 21:54:37:INFO:Client 192.168.0.176 has stopped listening on pool filament,13
+2024-02-17 21:54:37:INFO:Client 192.168.0.176 has stopped listening on pool filament,16
+2024-02-17 21:54:37:INFO:Client 192.168.0.176 has stopped listening on pool filament,18
+2024-02-17 21:54:37:INFO:Client 192.168.0.176 has stopped listening on pool filament,20
+2024-02-17 21:54:37:INFO:Client 192.168.0.176 has stopped listening on pool filament,11
+2024-02-17 21:54:37:INFO:Client 192.168.0.176 has stopped listening on pool filament,2
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,1
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,2
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,3
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,4
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,5
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,6
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,7
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,8
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,9
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,10
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,11
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,12
+2024-02-17 21:54:45:INFO:Client 192.168.0.176 is now listening on pool spool,13
+2024-02-17 21:54:46:INFO:Client 192.168.0.176 is now listening on pool spool,14
+2024-02-17 21:54:46:INFO:Client 192.168.0.176 is now listening on pool spool,15
+2024-02-17 21:54:46:INFO:Client 192.168.0.176 is now listening on pool spool,19
+2024-02-17 21:54:48:INFO:Client 192.168.0.176 is now listening on pool spool,17
+2024-02-17 21:54:48:INFO:Client 192.168.0.176 is now listening on pool spool,18
